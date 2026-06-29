@@ -165,5 +165,3 @@ npm run dev
 Built for the **Vibe2Ship Hackathon** using **Google Gemini 3.5 Flash**, **Google AI Studio**, and **Google Cloud Run**.
 
 ---
-
-⭐ If you like this project, consider giving it a star!
