@@ -157,6 +157,15 @@ npm run dev
 - Google Cloud Run
 
 ---
+## Future Improvements
+
+- Authentication for citizens and municipal officers
+- Real municipal API integration
+- Push notifications
+- Mobile application
+- Analytics dashboard
+
+---
 
 ## 👩‍💻 Developer
 
