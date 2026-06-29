@@ -1,0 +1,10 @@
+{
+  "name": "CivicLens",
+  "description": "An AI-powered civic issue reporting and analytics platform for local Indian wards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
