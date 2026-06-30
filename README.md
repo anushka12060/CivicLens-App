@@ -37,7 +37,7 @@ Powered by **Google Gemini 3.5 Flash**, the platform analyzes uploaded images, c
 
 ---
 
-## 📝 Report Issue
+## Report Issue
 
 <img width="1901" height="898" alt="image" src="https://github.com/user-attachments/assets/7413bff6-e628-4646-8f1a-076ca7eddc00" />
 
@@ -65,14 +65,14 @@ Powered by **Google Gemini 3.5 Flash**, the platform analyzes uploaded images, c
 
 ---
 
-## 💬 Resolution Agent
+## Resolution Agent
 
 <img width="1897" height="825" alt="image" src="https://github.com/user-attachments/assets/33755078-58c9-48e2-b253-61435a71a75c" />
 
 
 ---
 
-## 🧠 AI Workflow
+## AI Workflow
 
 ```text
 Citizen uploads image + description
@@ -95,7 +95,7 @@ Priority Board • Interactive Map • Ward Health Index
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -108,7 +108,7 @@ Priority Board • Interactive Map • Ward Health Index
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 ### Clone the repository
 
@@ -142,7 +142,7 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 **Google Cloud Run**
 
@@ -150,7 +150,7 @@ npm run dev
 
 ---
 
-## 🤖 Google Technologies Used
+## Google Technologies Used
 
 - Google Gemini 3.5 Flash
 - Google AI Studio
@@ -167,7 +167,7 @@ npm run dev
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Anushka Arora**
 
